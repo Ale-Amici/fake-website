@@ -1,0 +1,22 @@
+
+title: theDivers
+email: git@andrealeone.xyz
+
+description: >-
+  Our first hackathon project
+
+baseurl:  ""
+url:      ""
+
+theme:    minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor
